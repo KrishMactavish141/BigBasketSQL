@@ -1,0 +1,18 @@
+total no of brands available in big basket
+total categories of product available
+total sub categories of product available
+top 5 categories
+top 10 sub categories
+most costly product description
+top 3 costly product name
+most costly product of each category
+most costly product of each sub category,top 3
+most discounted product name
+most discounted product of each category
+which brand has most product
+which category has most product and what is the percentage of this out of all products
+which category has least product
+which subcategory has most product
+which brand has most subcategory of products
+total products of Fresho brand
+Show top 3 products from each category
