@@ -1,5 +1,5 @@
 Project Overview
-This project involves the analysis of a dataset (bigbasket.csv) containing sales details, including product information and customer ratings from BigBasket. 
+This project involves the analysis of a dataset (BigBasket_Products.csv) containing sales details, including product information and customer ratings from BigBasket. 
 The objective was to perform various SQL queries to uncover significant insights and patterns within the data.
 
 Insights and Findings
